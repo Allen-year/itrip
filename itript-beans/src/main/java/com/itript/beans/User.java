@@ -1,4 +1,4 @@
-package com.itript.pojo;
+package com.itript.beans;
 
 import java.io.Serializable;
 
