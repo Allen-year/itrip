@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50d27a45-abb3-417b-8bec-f4afb2464d45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itript-beans/src/main/java/com/itript/pojo/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itrip-util/src/main/java/com/itrip/utils/PageData.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-util/src/main/java/com/itrip/utils/PageData.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/itrip-util/src/main/java/com/itrip/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -87,6 +86,7 @@
       <workItem from="1573201076292" duration="6157000" />
       <workItem from="1573432594889" duration="14957000" />
       <workItem from="1573539900882" duration="661000" />
+      <workItem from="1573786634413" duration="562000" />
     </task>
     <servers />
   </component>

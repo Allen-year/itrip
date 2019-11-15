@@ -73,10 +73,6 @@ public class PageData<T> {
 		return this.pageIndex<this.totalPageCount;
 	}
 	public void setHasNext(boolean hasNext) {
-		
 		this.hasNext = hasNext;
-		
 	}
-	
-	
 }
